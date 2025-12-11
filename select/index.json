@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "SNAP",
+  "base_artist": "Rosa Linn",
+  "createdAt": "2025-12-11T15:44:06.748319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Playgirl (Snap Ant remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Playgirl_(Snap_Ant_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snap Back",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/02_Snap_Back_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snap",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/03_Snap_Nav.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snap",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/04_Snap_NAV.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Playgirl - Snap Ant Version",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Playgirl_-_Snap_Ant_Version_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cult Of Snap!",
+      "artist": "Snap!",
+      "has_synced": false,
+      "path": "select/06_Cult_Of_Snap!_Snap!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Man In A Garage (Snap Ant Version)",
+      "artist": "Coldcut",
+      "has_synced": false,
+      "path": "select/07_Man_In_A_Garage_(Snap_Ant_Version)_Coldcut.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snap Out Of It",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/08_Snap_Out_Of_It_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snap",
+      "artist": "D.R.I.",
+      "has_synced": true,
+      "path": "select/09_Snap_D.R.I..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snap - Comp",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/10_Snap_-_Comp_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snap",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/11_Snap_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snap - Demo",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/12_Snap_-_Demo_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snap (Demo)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/13_Snap_(Demo)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tap, Twist, Snap",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/14_Tap,_Twist,_Snap_Sugar_Ray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SNAP",
+      "artist": "Rosa Linn",
+      "has_synced": false,
+      "path": "select/pl_01_SNAP_Rosa_Linn.txt"
+    }
+  ]
+}
